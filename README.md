@@ -4,6 +4,7 @@
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
+- [License](#license)
 
 ## Installation
 To install Wix Coords Menu, follow these steps:
@@ -20,3 +21,8 @@ Dependencies:
 - [ox_lib](https://github.com/communityox/ox_lib)
 
 ![image](https://github.com/user-attachments/assets/e9fbc35d-1c4f-4eaf-8cdb-4c08e9da8b56)
+
+## License
+- This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
+- You may **not** sell this script or redistribute it without providing the source code.  
+- Modifications must retain original credits and use the same license (GPLv3).  
