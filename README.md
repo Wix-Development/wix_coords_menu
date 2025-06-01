@@ -16,7 +16,8 @@ To install Wix Coords Menu, follow these steps:
 
 ## Description
 Wix Coords Menu is a lightweight FiveM script that provides an in-game menu for quickly copying your current coordinates (Vector3, Vector4, XYZ, table format, or heading) to the clipboard. It also features a 3D coordinates mode, allowing you to copy the coordinates of any point you look at in the world. Includes configurable commands, keybinds, and localization support.
-Dependencies:
+
+**Dependencies:**
 - [wix_core](https://github.com/Wix-Development/wix_core)
 - [ox_lib](https://github.com/communityox/ox_lib)
 
