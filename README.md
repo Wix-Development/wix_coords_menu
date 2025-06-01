@@ -9,7 +9,7 @@
 ## Installation
 To install Wix Coords Menu, follow these steps:
 1. Download the latest release from the [releases page](https://github.com/Wix-Development/wix_coords_menu/releases).
-2. Make sure u have [wix_core](https://github.com/Wix-Development/wix_core) and [ox_lib](https://github.com/communityox/ox_lib) installed.
+2. Make sure you have [wix_core](https://github.com/Wix-Development/wix_core) and [ox_lib](https://github.com/communityox/ox_lib) installed.
 3. Extract the downloaded files into your resources folder.
 4. Make sure the resource is called `wix_coords_menu`.
 5. Add `ensure wix_coords_menu` to your `server.cfg` file.
